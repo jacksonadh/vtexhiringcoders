@@ -1,7 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      "flex-layout.row",
+      "slider-layout#home"
     ]
   },
   "flex-layout.row": {
