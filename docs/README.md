@@ -1,3 +1,6 @@
+# Repositório dedicado a estudos de VTEX IO
+Este repositório contém todo o meu desenvolvimento durante a fase 2 do curso Hiringcoders da Gama Academy, onde está sendo estudado a parte de ecommerce, no modulo atual estamos aprendendo sobre o VTEX IO
+
 # Minimum Boilerplate Theme
 
 The minimum Boilerplate Theme is basic store front model based on the VTEX IO Store Framework.
